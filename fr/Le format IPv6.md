@@ -10,10 +10,12 @@ IPv4 est victime de son succès et les adresses publiques ont été entièrement
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées parallèlement  par plusieurs organisations 
  - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse publique 
 
-En pratique, la plupart des entreprises utilisent le réseau 10.0.0.0/8 et ne sont pas 
+En pratique, la plupart des entreprises utilise le réseau 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6.
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5NT
-c0MzExN119
+eyJoaXN0b3J5IjpbMTc5NjAyMTkxMSw2MjkyNDI5MzcsMTAyNT
+M1NzQ4NCwxMzk1NzQzMTE3XX0=
 -->
