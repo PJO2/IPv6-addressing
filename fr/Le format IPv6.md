@@ -12,10 +12,10 @@ IPv4 est victime de son succès et les adresses publiques ont été entièrement
 
 En pratique, la plupart des entreprises utilise le réseau 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6.
 
-
+Toutefois, l'arrivée d'objets connectés (caméras vidéo, bornes wifi, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjAyMTkxMSw2MjkyNDI5MzcsMTAyNT
-M1NzQ4NCwxMzk1NzQzMTE3XX0=
+eyJoaXN0b3J5IjpbMzMzNjAxMzgxLDYyOTI0MjkzNywxMDI1Mz
+U3NDg0LDEzOTU3NDMxMTddfQ==
 -->
