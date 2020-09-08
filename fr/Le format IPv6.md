@@ -12,10 +12,12 @@ IPv4 est victime de son succès et les adresses publiques ont été entièrement
 
 En pratique, la plupart des entreprises utilise le réseau 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6.
 
-Toutefois, l'arrivée d'objets connectés (caméras vidéo, bornes wifi, ...) augmen
+Toutefois, l'arrivée d'objets connectés (caméras vidéo, bornes wifi, ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des entreprises. 
+
+De plus, ces subnets souvent peu critiques sont des bons candidats pour une expérimentat 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg3ODEzNDksNjI5MjQyOTM3LDEwMj
+eyJoaXN0b3J5IjpbLTE5NDAxNTM4MTQsNjI5MjQyOTM3LDEwMj
 UzNTc0ODQsMTM5NTc0MzExN119
 -->
