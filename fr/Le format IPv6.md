@@ -19,8 +19,9 @@ Toutefois, l'arrivée d'objets connectés (caméras vidéo, bornes wifi, ...) au
 De plus, ces subnets souvent peu critiques sont des bons candidats pour une première expérience en IPv6.
  
 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1MjQ3MDEyLDYyOTI0MjkzNywxMDI1Mz
-U3NDg0LDEzOTU3NDMxMTddfQ==
+eyJoaXN0b3J5IjpbLTM2ODgyMDE0Miw3MDUyNDcwMTIsNjI5Mj
+QyOTM3LDEwMjUzNTc0ODQsMTM5NTc0MzExN119
 -->
