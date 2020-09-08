@@ -1,10 +1,10 @@
 
 Le format IPv6
 
-IPv4 est victime de son succès et les adresses publiques ont été enti IPv4 publique  
+IPv4 est victime de son succès et les adresses publiques ont été entièrement attribuées. Il est possible de racheter des adresses déjà attribuées pour un prix de l'ordre de 25$ par adresse 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY2MTgzNDFdfQ==
+eyJoaXN0b3J5IjpbMTYwODExMDM2MF19
 -->
