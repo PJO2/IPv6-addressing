@@ -8,11 +8,11 @@ IPv4 est victime de son succès et les adresses publiques ont été entièrement
 2 mécanismes nous permettent quand même de continuer à vivre avec IPv4 :
 
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées parallèlement  par plusieurs organisations 
- - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse priv 
+ - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse publique 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MjgyMjMsMTAyNTM1NzQ4NCwxMzk1Nz
-QzMTE3XX0=
+eyJoaXN0b3J5IjpbLTEyNDI4NzMzNywxMDI1MzU3NDg0LDEzOT
+U3NDMxMTddfQ==
 -->
