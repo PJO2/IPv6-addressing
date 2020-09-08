@@ -10,9 +10,9 @@ IPv4 est victime de son succès et les adresses publiques ont été entièrement
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées parallèlement  par plusieurs organisations 
  - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse publique 
 
-
+En pratique, la plua
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI4NzMzNywxMDI1MzU3NDg0LDEzOT
-U3NDMxMTddfQ==
+eyJoaXN0b3J5IjpbNTA4MzQyMDEyLDEwMjUzNTc0ODQsMTM5NT
+c0MzExN119
 -->
