@@ -10,7 +10,7 @@ IPv4 est victime de son succès et les adresses publiques ont été entièrement
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées parallèlement  par plusieurs organisations 
  - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse publique 
 
-La seule alternative possible à IPv4 s'appelle IPv6. En d'autres termes, la seule décision que nous avons, c'est quand nous allons passer à IPv6 ! En effet, il a fallu près de 15 ans pour stabiliser et sécuriser IPv6, il n'est pas crédible d'attendre un  
+La seule alternative possible à IPv4 s'appelle IPv6. En d'autres termes, la seule décision que nous avons, c'est quand nous allons passer à IPv6 ! En effet, il a fallu près de 15 ans pour stabiliser et sécuriser IPv6, il n'est pas crédible d'attendre un autre protocole de transport. 
 
 En pratique, la plupart des entreprises utilise le réseau 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6.
 
@@ -21,6 +21,6 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzAxNzE1MCw2MjkyNDI5MzcsMTAyNT
-M1NzQ4NCwxMzk1NzQzMTE3XX0=
+eyJoaXN0b3J5IjpbNzA1MjQ3MDEyLDYyOTI0MjkzNywxMDI1Mz
+U3NDg0LDEzOTU3NDMxMTddfQ==
 -->
