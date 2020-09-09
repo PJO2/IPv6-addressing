@@ -3,12 +3,12 @@ Préparer une migration en IPv6
 
 Ce nouveau cycle de présentation est là pour échanger autour des best practices pour la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, établissement public, ...). Il suppose que vous êtes déjà familier avec le format IPv6
 
-## Pourquoi passer à IPv6 ?
+## Les limitations d'IPv4 ?
 sous-titre: quels problèmes IPv6 prétend résoudre ?
 
 IPv4 est victime de son succès et les adresses publiques autorisées par le protocole ont été entièrement attribuées. Il est possible de racheter des adresses déjà attribuées pour un prix de l'ordre de [25$ par adresse](https://auctions.ipv4.global/).
 
-IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer en nombre d'adresses en apparence illimité ([150 bits permettent de compter les atomes de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). 
+IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer un nombre d'adresses en apparence illimité ([150 bits permettent de compter les atomes de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). 
 
 2 mécanismes nous permettent quand même de continuer à vivre avec IPv4 :
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées conjointement  par plusieurs organisations 
@@ -28,9 +28,9 @@ Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ens
 IPv6 est une réponse satisfaisante à ces nouveaux usages. De plus, ces subnets souvent peu critiques sont d'excellents candidats pour une première expérience en IPv6. D'autant plus qu'en configurant ces équipements en IPv6 dès le début, on s'évite une phase de migration ultérieure. 
 
 
-## Quelles alternatives ?
+## Pourquoi IPv6 ?
 
-La seule alternative plausible à IPv4 s'appelle IPv6. 
+PLa seule alternative plausible à IPv4 s'appelle IPv6. 
 
 En effet, il a fallu près de 15 ans pour stabiliser et sécuriser le protocole IPv6 et ses implémentations, il n'est pas crédible d'attendre un autre protocole de transport. 
 De plus,  IPv6 est complètement fonctionnel sur la plupart des systèmes, y compris les systèmes embarqués qui intègrent dans leur grande majorité un OS linux sur lequel IPv6 est natif depuis la version 2.6 datant de 2006. 
@@ -49,7 +49,7 @@ En outre,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ5Nzc4MTUsLTExNDY0MDcxMzksLT
+eyJoaXN0b3J5IjpbLTE2Nzc0MDgzMzksLTExNDY0MDcxMzksLT
 EyMjQ2ODMzMDksLTE5MDA0NTM3MzQsNzg4MzE3Mjk4LC0xNjA5
 NDI5MTIxLC0xMzUwMTY5OTkyLC0xMzYyOTg2NDM3LC0zNjg4Mj
 AxNDIsNzA1MjQ3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0LDEz
