@@ -33,7 +33,7 @@ IPv6 est une réponse satisfaisante à ces nouveaux usages. De plus, ces subnets
 La seule alternative plausible à IPv4 s'appelle IPv6. 
 
 En effet, il a fallu près de 15 ans pour stabiliser et sécuriser le protocole IPv6 et ses implémentations, il n'est pas crédible d'attendre un autre protocole de transport. 
-De plus,  IPv6 est complètement fonctionnel sur la plupart des systèmes, y compris les systèmes embarqués qui intègrent dans leur grande majorité un OS linux sur lequel 
+De plus,  IPv6 est complètement fonctionnel sur la plupart des systèmes, y compris les systèmes embarqués qui intègrent dans leur grande majorité un OS linux sur lequel IPv6 est natif depuis la version 2.6 datant de 2006.
 
 
 Et si vous m'avez bien suivi 
@@ -49,7 +49,7 @@ En outre,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzE5OTU1NCwtMTE0NjQwNzEzOSwtMT
+eyJoaXN0b3J5IjpbLTQxNjc0OTA1MSwtMTE0NjQwNzEzOSwtMT
 IyNDY4MzMwOSwtMTkwMDQ1MzczNCw3ODgzMTcyOTgsLTE2MDk0
 MjkxMjEsLTEzNTAxNjk5OTIsLTEzNjI5ODY0MzcsLTM2ODgyMD
 E0Miw3MDUyNDcwMTIsNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5
