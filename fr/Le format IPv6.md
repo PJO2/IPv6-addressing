@@ -7,7 +7,7 @@ Ce nouveau cycle de présentation est là pour échanger autour des best practic
 sous-titre: quel problème IPv6 prétend résoudre ?
 
 IPv4 est victime de son succès et les adresses publiques autorisées par le protocole ont été entièrement attribuées. Il est possible de racheter des adresses déjà attribuées pour un prix de l'ordre de [25$ par adresse](https://auctions.ipv4.global/).
-IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer en nombre d'adresses à peu près illimité ([avec un adressage sur 150 bits, on pourrait adresser chaque atome de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). 
+IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer en nombre d'adresses à peu près illimité ([avec un adressage sur 150 bits, on peut adresser chaque atome de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). En revanche, bien que IPv6 soit inspiré d'IPv4, les 2 protocoles so 
 
 En pratique, la plupart des organisations utilise le réseau 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6.
 
@@ -29,7 +29,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNDgwNDU3LC0xMzYyOTg2NDM3LC0zNj
-g4MjAxNDIsNzA1MjQ3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0
-LDEzOTU3NDMxMTddfQ==
+eyJoaXN0b3J5IjpbLTcwMzcxMTE0NSwtMTM2Mjk4NjQzNywtMz
+Y4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4
+NCwxMzk1NzQzMTE3XX0=
 -->
