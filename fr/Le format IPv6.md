@@ -21,9 +21,9 @@ Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, i
 - accessibilité de serveurs dont l'adresse est translatée
 
 De plus, l'arrivée des objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules ...) augmente la demande des subnets à attribuer et bouscule le plan d'adressage des organisations. 
-Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ensembles d'objets en nombre difficilement prévisible qui doivent appartenir à des nouveaux subnets pour leur adjoindre le bon niveau de sécurité (côté sécurité, c'est cool  de distinguer facilement un humain d'un interrupteur
+Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ensembles d'objets en nombre difficilement prévisible qui doivent appartenir à des nouveaux subnets pour leur adjoindre le bon niveau de sécurité (côté sécurité, c'est cool  de distinguer facilement un humain d'un interrupteur).
 
-Grâce à un plan d'adressage plus large, IPv6 permet de répondre à cette demande. 
+Grâce à son plan d'adressage fara, IPv6 permet de répondre à cette demande. 
 
 
 La seule alternative possible à IPv4 s'appelle IPv6. En d'autres termes, la seule décision que nous avons, c'est **quand** nous allons passer à IPv6 ! En effet, il a fallu près de 15 ans pour stabiliser et sécuriser IPv6, il n'est pas crédible d'attendre un autre protocole de transport. 
@@ -37,8 +37,8 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjAzNzAwNDIsLTE5MDA0NTM3MzQsNz
-g4MzE3Mjk4LC0xNjA5NDI5MTIxLC0xMzUwMTY5OTkyLC0xMzYy
-OTg2NDM3LC0zNjg4MjAxNDIsNzA1MjQ3MDEyLDYyOTI0MjkzNy
-wxMDI1MzU3NDg0LDEzOTU3NDMxMTddfQ==
+eyJoaXN0b3J5IjpbLTg3MTg4MDA3NSwtMTkwMDQ1MzczNCw3OD
+gzMTcyOTgsLTE2MDk0MjkxMjEsLTEzNTAxNjk5OTIsLTEzNjI5
+ODY0MzcsLTM2ODgyMDE0Miw3MDUyNDcwMTIsNjI5MjQyOTM3LD
+EwMjUzNTc0ODQsMTM5NTc0MzExN119
 -->
