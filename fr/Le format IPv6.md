@@ -14,7 +14,7 @@ IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 p
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées parallèlement  par plusieurs organisations 
  - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse publique 
   
-Ainsi, eEn pratique, la plupart des organisations utilise le réseau privé 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6.
+Ainsi, en pratique, la plupart des organisations utilise le réseau privé 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6. De plus, tous les opérateurs Internet grand public regroupent les réseaux personnels (home network) sur une seule adresse IP (NAT), et certains regroupent même plusieurs 
 
 Toutefois, l'arrivée d'objets connectés (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des entreprises. 
 
@@ -32,7 +32,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2NzYwNTAyLC0xMzYyOTg2NDM3LC0zNj
-g4MjAxNDIsNzA1MjQ3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0
-LDEzOTU3NDMxMTddfQ==
+eyJoaXN0b3J5IjpbLTM3NzIyOTIyNCwtMTM2Mjk4NjQzNywtMz
+Y4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4
+NCwxMzk1NzQzMTE3XX0=
 -->
