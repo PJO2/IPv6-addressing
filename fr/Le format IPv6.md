@@ -8,7 +8,7 @@ sous-titre: quel problème IPv6 prétend résoudre ?
 
 IPv4 est victime de son succès et les adresses publiques autorisées par le protocole ont été entièrement attribuées. Il est possible de racheter des adresses déjà attribuées pour un prix de l'ordre de [25$ par adresse](https://auctions.ipv4.global/).
 
-IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer en nombre d'adresses à peu près illimité ([avec un adressage sur 150 bits, on peut adresser chaque atome de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). 
+IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer en nombre d'adresses en apparence illimité ([avec un adressage sur 150 bits, on peut adresser chaque atome de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). 
 
 2 mécanismes nous permettent quand même de continuer à vivre avec IPv4 :
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées parallèlement  par plusieurs organisations 
@@ -36,7 +36,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzQzMTE0MiwtMTM1MDE2OTk5MiwtMT
-M2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5
-MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3XX0=
+eyJoaXN0b3J5IjpbLTE2MDk0MjkxMjEsLTEzNTAxNjk5OTIsLT
+EzNjI5ODY0MzcsLTM2ODgyMDE0Miw3MDUyNDcwMTIsNjI5MjQy
+OTM3LDEwMjUzNTc0ODQsMTM5NTc0MzExN119
 -->
