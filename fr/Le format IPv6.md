@@ -11,7 +11,7 @@ IPv4 est victime de son succès et les adresses publiques autorisées par le pro
 IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer en nombre d'adresses en apparence illimité ([150 bits permettent de compter les atomes de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). 
 
 2 mécanismes nous permettent quand même de continuer à vivre avec IPv4 :
- - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées parallèlement  par plusieurs organisations 
+ - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées conjointement  par plusieurs organisations 
  - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse publique 
   
 Ainsi, en pratique, la plupart des organisations utilise le réseau privé 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6. De plus, tous les opérateurs Internet grand public regroupent les réseaux personnels (home network) sur une seule adresse IP (NAT), et certains regroupent un grand nombre de réseaux personnels sur un nombre réduit d'adresses publiques (large scale NAT). 
@@ -36,7 +36,8 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxNjkxOTcsLTE2MDk0MjkxMjEsLTEzNT
-AxNjk5OTIsLTEzNjI5ODY0MzcsLTM2ODgyMDE0Miw3MDUyNDcw
-MTIsNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5NTc0MzExN119
+eyJoaXN0b3J5IjpbLTE2OTQ5NjQzNDMsLTE2MDk0MjkxMjEsLT
+EzNTAxNjk5OTIsLTEzNjI5ODY0MzcsLTM2ODgyMDE0Miw3MDUy
+NDcwMTIsNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5NTc0MzExN1
+19
 -->
