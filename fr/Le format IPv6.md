@@ -25,13 +25,9 @@ Nous allons voir qu'IPv6, construit à partir  du retour d'expérience IPv4, app
 De plus, l'arrivée des objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules, ...) augmente la demande des subnets à attribuer et bouscule le plan d'adressage des organisations. 
 Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ensembles d'objets en nombre difficilement prévisible qui doivent appartenir à des nouveaux subnets pour leur adjoindre le bon niveau de sécurité (côté sécurité, c'est cool  de distinguer facilement un humain d'un interrupteur).
 
-
-## Par où démarrer
-IPv6 est une réponse satisfaisante à ces nouveaux usages. De plus, ces subnets souvent peu critiques sont d'excellents candidats pour une première expérience en IPv6 : 
- - Ils permettent de 
-
- D'une part, on part 
-
+IPv6 est une réponse satisfaisante à ces nouveaux usages. De plus, ces subnets souvent peu critiques sont d'excellents candidats pour une première expérience en IPv6.
+ 
+ 
 
 , d'autant plus qu'en configurant ces équipements en IPv6 dès le début, on évite une phase de migration  
 
@@ -45,8 +41,8 @@ La seule alternative possible à IPv4 s'appelle IPv6. En d'autres termes, la seu
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg3Mjc4NzQsLTE5MDA0NTM3MzQsNz
-g4MzE3Mjk4LC0xNjA5NDI5MTIxLC0xMzUwMTY5OTkyLC0xMzYy
-OTg2NDM3LC0zNjg4MjAxNDIsNzA1MjQ3MDEyLDYyOTI0MjkzNy
-wxMDI1MzU3NDg0LDEzOTU3NDMxMTddfQ==
+eyJoaXN0b3J5IjpbNzE5ODMxMjA5LC0xOTAwNDUzNzM0LDc4OD
+MxNzI5OCwtMTYwOTQyOTEyMSwtMTM1MDE2OTk5MiwtMTM2Mjk4
+NjQzNywtMzY4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5MzcsMT
+AyNTM1NzQ4NCwxMzk1NzQzMTE3XX0=
 -->
