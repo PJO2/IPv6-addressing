@@ -32,8 +32,12 @@ IPv6 est une réponse satisfaisante à ces nouveaux usages. De plus, ces subnets
 
 La seule alternative plausible à IPv4 s'appelle IPv6. 
 
+En effet, il a fallu près de 15 ans pour stabiliser et sécuriser IPv6, il n'est pas crédible d'attendre un autre protocole de transport. 
+
+
+
 Et si vous m'avez bien suivi 
-En d'autres termes, la seule décision que nous avons, c'est **quand** nous allons passer à IPv6 ! En effet, il a fallu près de 15 ans pour stabiliser et sécuriser IPv6, il n'est pas crédible d'attendre un autre protocole de transport. 
+En d'autres termes, la seule décision que nous avons, c'est **quand** nous allons passer à IPv6 ! 
 
 En outre, 
 
@@ -45,9 +49,9 @@ En outre,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Nzg4MTQzMywtMTE0NjQwNzEzOSwtMT
-IyNDY4MzMwOSwtMTkwMDQ1MzczNCw3ODgzMTcyOTgsLTE2MDk0
-MjkxMjEsLTEzNTAxNjk5OTIsLTEzNjI5ODY0MzcsLTM2ODgyMD
-E0Miw3MDUyNDcwMTIsNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5
-NTc0MzExN119
+eyJoaXN0b3J5IjpbMzU4MTU2NTgzLC0xMTQ2NDA3MTM5LC0xMj
+I0NjgzMzA5LC0xOTAwNDUzNzM0LDc4ODMxNzI5OCwtMTYwOTQy
+OTEyMSwtMTM1MDE2OTk5MiwtMTM2Mjk4NjQzNywtMzY4ODIwMT
+QyLDcwNTI0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1
+NzQzMTE3XX0=
 -->
