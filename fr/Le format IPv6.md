@@ -1,5 +1,5 @@
 
-Le format IPv6
+Préparer 
 
 Ce nouveau cycle de présentation est là pour échanger autour des best practices pour la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, établissement public, ...). Il suppose que vous êtes déjà familier avec le format IPv6
 
@@ -13,9 +13,9 @@ IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 p
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées parallèlement  par plusieurs organisations 
  - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse publique 
  - 
-En pratique, la plupart des organisations utilise le réseau 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6.
+En pratique, la plupart des organisations utilise le réseau privé 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6.
 
-Toutefois, l'arrivée d'objets connectés (caméras vidéo, bornes wifi, ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des entreprises. 
+Toutefois, l'arrivée d'objets connectés (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des entreprises. 
 
 
 
@@ -31,7 +31,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODMyNjY4NSwtMTM2Mjk4NjQzNywtMz
-Y4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4
-NCwxMzk1NzQzMTE3XX0=
+eyJoaXN0b3J5IjpbLTE1NjcyODg0MDYsLTEzNjI5ODY0MzcsLT
+M2ODgyMDE0Miw3MDUyNDcwMTIsNjI5MjQyOTM3LDEwMjUzNTc0
+ODQsMTM5NTc0MzExN119
 -->
