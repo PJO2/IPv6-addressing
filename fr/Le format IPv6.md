@@ -19,7 +19,6 @@ Ainsi, en pratique, la plupart des organisations utilise le réseau privé 10.0.
 Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, ils ne répondent pas efficacement à certains usages :
 - fusion d'organisations partageant les mêmes adresses en 10.0.0.0/8
 - accessibilité de serveurs dont l'adresse est translatée
-- utilisation transparente par un d'une adresse 
 
 De plus, l'arrivée d'objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des organisations : il ne s'agit plus d'affecter une adresse unique pour le poste de travail de chaque employé, mais   
 
@@ -37,7 +36,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzc1OTQwMSwtMTYwOTQyOTEyMSwtMT
+eyJoaXN0b3J5IjpbLTI0Njg2NTk3NiwtMTYwOTQyOTEyMSwtMT
 M1MDE2OTk5MiwtMTM2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0
 NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3XX
 0=
