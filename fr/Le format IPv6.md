@@ -20,7 +20,7 @@ Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, i
 - fusion d'organisations partageant les mêmes adresses en 10.0.0.0/8
 - accessibilité de serveurs derrière le NAT
 
-Toutefois, l'arrivée d'objets connectés (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des entreprises. 
+De plus, l'arrivée d'objets connectés dans les ent(caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des entreprises. 
 
 Grâce à un plan d'adressage plus large, IPv6 permet de répondre à cette demande. 
 
@@ -36,7 +36,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMTIwMzE4LC0xMzYyOTg2NDM3LC0zNj
-g4MjAxNDIsNzA1MjQ3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0
-LDEzOTU3NDMxMTddfQ==
+eyJoaXN0b3J5IjpbLTYyMjAxMjgxOSwtMTM2Mjk4NjQzNywtMz
+Y4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4
+NCwxMzk1NzQzMTE3XX0=
 -->
