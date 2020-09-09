@@ -1,6 +1,8 @@
 
 Le format IPv6
 
+Ce nouveau cycle de présentation est là pour échanger autour des best practices pour la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, 
+
 Pourquoi passer à IPv6 ?
 
 IPv4 est victime de son succès et les adresses publiques ont été entièrement attribuées. Il est possible de racheter des adresses déjà attribuées pour un prix de l'ordre de [25$ par adresse](https://auctions.ipv4.global/).
@@ -22,6 +24,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODgyMDE0Miw3MDUyNDcwMTIsNjI5Mj
-QyOTM3LDEwMjUzNTc0ODQsMTM5NTc0MzExN119
+eyJoaXN0b3J5IjpbLTk5MjU5NzQzMywtMzY4ODIwMTQyLDcwNT
+I0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3
+XX0=
 -->
