@@ -1,9 +1,9 @@
 
-=Le format IPv6
+Le format IPv6
 
 Ce nouveau cycle de présentation est là pour échanger autour des best practices pour la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, établissement public, ...). Il suppose que vous êtes déjà familier avec le format IPv6
 
-Pourquoi passer à IPv6 ?
+Pourq## Headinguoi passer à IPv6 ?
 sous-titre: quel problème IPv6 prétend résoudre ?
 
 IPv4 est victime de son succès et les adresses publiques ont été entièrement attribuées. Il est possible de racheter des adresses déjà attribuées pour un prix de l'ordre de [25$ par adresse](https://auctions.ipv4.global/).
@@ -28,7 +28,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjAxNTQyODEsLTM2ODgyMDE0Miw3MD
-UyNDcwMTIsNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5NTc0MzEx
-N119
+eyJoaXN0b3J5IjpbLTc0NzkyMzQwNiwtMzY4ODIwMTQyLDcwNT
+I0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3
+XX0=
 -->
