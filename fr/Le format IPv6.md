@@ -21,7 +21,7 @@ Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, i
 - accessibilité de serveurs dont l'adresse est translatée
 
 De plus, l'arrivée des objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules ...) augmente la demande des subnets à attribuer et bouscule le plan d'adressage des organisations. 
-Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ensembles d'objets de nombre qui doivent appartenir à des  nouveaux subnets pour être 
+Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ensembles d'objets en nombre difficilement prévisible qui doivent appartenir à des nouveaux subnets pour être 
 
 Grâce à un plan d'adressage plus large, IPv6 permet de répondre à cette demande. 
 
@@ -37,8 +37,8 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA0NTM3MzQsNzg4MzE3Mjk4LC0xNj
-A5NDI5MTIxLC0xMzUwMTY5OTkyLC0xMzYyOTg2NDM3LC0zNjg4
-MjAxNDIsNzA1MjQ3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0LD
-EzOTU3NDMxMTddfQ==
+eyJoaXN0b3J5IjpbMTY5MTAyMzQ0MCwtMTkwMDQ1MzczNCw3OD
+gzMTcyOTgsLTE2MDk0MjkxMjEsLTEzNTAxNjk5OTIsLTEzNjI5
+ODY0MzcsLTM2ODgyMDE0Miw3MDUyNDcwMTIsNjI5MjQyOTM3LD
+EwMjUzNTc0ODQsMTM5NTc0MzExN119
 -->
