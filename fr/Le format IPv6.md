@@ -1,8 +1,7 @@
 
 Le format IPv6
 
-Ce nouveau cycle de présentation est là pour échanger autour des best practices pour la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, établissement public, ...).
-Les lecteurs moi 
+Ce nouveau cycle de présentation est là pour échanger autour des best practices pour la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, établissement public, ...). Il suppose que vous êtes déjà familier avec le format IPv6
 
 Pourquoi passer à IPv6 ?
 
@@ -25,7 +24,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNDE1MDU3LC0zNjg4MjAxNDIsNzA1Mj
-Q3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0LDEzOTU3NDMxMTdd
-fQ==
+eyJoaXN0b3J5IjpbMTY2MTEyNDA4NywtMzY4ODIwMTQyLDcwNT
+I0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3
+XX0=
 -->
