@@ -4,7 +4,7 @@ Préparer une migration en IPv6
 Ce nouveau cycle de présentation est là pour échanger autour des best practices pour la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, établissement public, ...). Il suppose que vous êtes déjà familier avec le format IPv6
 
 ## Pourquoi passer à IPv6 ?
-sous-titre: quel problème IPv6 prétend résoudre ?
+sous-titre: quels problèmes IPv6 prétend résoudre ?
 
 IPv4 est victime de son succès et les adresses publiques autorisées par le protocole ont été entièrement attribuées. Il est possible de racheter des adresses déjà attribuées pour un prix de l'ordre de [25$ par adresse](https://auctions.ipv4.global/).
 
@@ -20,7 +20,8 @@ Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, i
 - fusion d'organisations partageant les mêmes adresses en 10.0.0.0/8
 - accessibilité de serveurs dont l'adresse est translatée
 
-De plus, l'arrivée des objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des organisations : il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des   
+De plus, l'arrivée des objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules ...) augmente la demande des subnets à attribuer et bouscule le plan d'adressage des organisations. 
+Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ensembles d'objets   
 
 Grâce à un plan d'adressage plus large, IPv6 permet de répondre à cette demande. 
 
@@ -36,8 +37,8 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM5OTE4NDIsLTE2MDk0MjkxMjEsLT
-EzNTAxNjk5OTIsLTEzNjI5ODY0MzcsLTM2ODgyMDE0Miw3MDUy
-NDcwMTIsNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5NTc0MzExN1
-19
+eyJoaXN0b3J5IjpbNzg4MzE3Mjk4LC0xNjA5NDI5MTIxLC0xMz
+UwMTY5OTkyLC0xMzYyOTg2NDM3LC0zNjg4MjAxNDIsNzA1MjQ3
+MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0LDEzOTU3NDMxMTddfQ
+==
 -->
