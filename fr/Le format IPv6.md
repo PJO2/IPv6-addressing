@@ -33,7 +33,7 @@ IPv6 est une réponse satisfaisante à ces nouveaux usages. De plus, ces subnets
 La seule alternative plausible à IPv4 s'appelle IPv6. 
 
 En effet, il a fallu près de 15 ans pour stabiliser et sécuriser le protocole IPv6 et ses implémentations, il n'est pas crédible d'attendre un autre protocole de transport. 
-De plus,  IPv6 est complètement fonctionnel sur la plupart des end-points , y compris low-cost.   gratuité de Linux et son 
+De plus,  IPv6 est complètement fonctionnel sur la plupart des systèmes, y compris les systèmes embarqués qui intègrent dans leur grande majorité un OS linux sur lequel 
 
 
 Et si vous m'avez bien suivi 
@@ -49,9 +49,9 @@ En outre,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NjMzOTE4LC0xMTQ2NDA3MTM5LC0xMj
-I0NjgzMzA5LC0xOTAwNDUzNzM0LDc4ODMxNzI5OCwtMTYwOTQy
-OTEyMSwtMTM1MDE2OTk5MiwtMTM2Mjk4NjQzNywtMzY4ODIwMT
-QyLDcwNTI0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1
-NzQzMTE3XX0=
+eyJoaXN0b3J5IjpbMTA5MzE5OTU1NCwtMTE0NjQwNzEzOSwtMT
+IyNDY4MzMwOSwtMTkwMDQ1MzczNCw3ODgzMTcyOTgsLTE2MDk0
+MjkxMjEsLTEzNTAxNjk5OTIsLTEzNjI5ODY0MzcsLTM2ODgyMD
+E0Miw3MDUyNDcwMTIsNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5
+NTc0MzExN119
 -->
