@@ -18,7 +18,7 @@ Ainsi, en pratique, la plupart des organisations utilise le réseau privé 10.0.
 
 Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, ils ne répondent pas efficacement à certains usages :
 - fusion d'organisations partageant les mêmes adresses en 10.0.0.0/8
-- accessibilité de serveurs derrière 
+- accessibilité de serveurs derrière le NAT
 
 Toutefois, l'arrivée d'objets connectés (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des entreprises. 
 
@@ -36,7 +36,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjI5ODkyMCwtMTM2Mjk4NjQzNywtMz
-Y4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4
-NCwxMzk1NzQzMTE3XX0=
+eyJoaXN0b3J5IjpbOTMyMTIwMzE4LC0xMzYyOTg2NDM3LC0zNj
+g4MjAxNDIsNzA1MjQ3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0
+LDEzOTU3NDMxMTddfQ==
 -->
