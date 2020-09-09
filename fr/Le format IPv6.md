@@ -20,7 +20,7 @@ Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, i
 - fusion d'organisations partageant les mêmes adresses en 10.0.0.0/8
 - accessibilité de serveurs derrière le NAT
 
-De plus, l'arrivée d'objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des organisations : il ne s'agit plus d'affecter une adresse unique pour le poste de travail de chaque employé, mais   
+De plus, l'arrivée d'objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés d ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des organisations : il ne s'agit plus d'affecter une adresse unique pour le poste de travail de chaque employé, mais   
 
 Grâce à un plan d'adressage plus large, IPv6 permet de répondre à cette demande. 
 
@@ -36,7 +36,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAxNjk5OTIsLTEzNjI5ODY0MzcsLT
-M2ODgyMDE0Miw3MDUyNDcwMTIsNjI5MjQyOTM3LDEwMjUzNTc0
-ODQsMTM5NTc0MzExN119
+eyJoaXN0b3J5IjpbLTg3NjE3NDI3NiwtMTM1MDE2OTk5MiwtMT
+M2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5
+MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3XX0=
 -->
