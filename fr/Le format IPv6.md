@@ -20,7 +20,7 @@ Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, i
 - fusion d'organisations partageant les mêmes adresses en 10.0.0.0/8
 - accessibilité de serveurs dont l'adresse est translatée
 
-De plus, l'arrivée d'objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des organisations : il ne s'agit plus d'affecter une adresse unique pour le poste de travail de chaque employé, mais   
+De plus, l'arrivée des objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules ...) augmente le nombre de subnets à attribuer et bouscule le plan d'adressage des organisations : il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des   
 
 Grâce à un plan d'adressage plus large, IPv6 permet de répondre à cette demande. 
 
@@ -36,8 +36,8 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Njg2NTk3NiwtMTYwOTQyOTEyMSwtMT
-M1MDE2OTk5MiwtMTM2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0
-NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3XX
-0=
+eyJoaXN0b3J5IjpbLTEyNTM5OTE4NDIsLTE2MDk0MjkxMjEsLT
+EzNTAxNjk5OTIsLTEzNjI5ODY0MzcsLTM2ODgyMDE0Miw3MDUy
+NDcwMTIsNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5NTc0MzExN1
+19
 -->
