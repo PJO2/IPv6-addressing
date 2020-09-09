@@ -1,5 +1,5 @@
 
-Le format IPv6
+=Le format IPv6
 
 Ce nouveau cycle de présentation est là pour échanger autour des best practices pour la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, établissement public, ...). Il suppose que vous êtes déjà familier avec le format IPv6
 
@@ -28,7 +28,7 @@ De plus, ces subnets souvent peu critiques sont des bons candidats pour une prem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzc2NTk2LC0zNjg4MjAxNDIsNzA1Mj
-Q3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0LDEzOTU3NDMxMTdd
-fQ==
+eyJoaXN0b3J5IjpbLTExNjAxNTQyODEsLTM2ODgyMDE0Miw3MD
+UyNDcwMTIsNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5NTc0MzEx
+N119
 -->
