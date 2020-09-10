@@ -14,15 +14,20 @@ IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 p
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées conjointement  par plusieurs organisations 
  - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse publique 
   
-Ainsi, en pratique, la plupart des organisations utilise le réseau privé 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6. De plus, tous les opérateurs Internet grand public regroupent les réseaux personnels (home network) sur une seule adresse IP (NAT), et certains regroupent un grand nombre de réseaux personnels sur un nombre réduit d'adresses publiques (large scale NAT). 
+Ainsi, en pratique, la plupart des organisations utilise le réseau privé 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6. De plus, tous les opérateurs Internet grand public regroupent les réseaux personnels (home network) sur une seule adresse IP (NAT), et certains regroupent un grand de réseaux personnels sur un nombre réduit d'adresses publiques (large scale NAT). 
 
-Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, ils ne répondent pas efficacement à certains usages :
+Si ces 2 mécanismes permettent effectivement d'économiser les adres
+La seule alternative possible à IPv4 s'appelle IPv6. En d'autres termes, la seule décision que nous avons, c'est quand nous allons passer à IPv6 ! En effet, il a fallu près de 15 ans pour stabiliser et sécurisesr IPv46, ils ne répondent pas efficacement à certains usages :
 - fusion d'organisations partageant les mêmes adresses en 10.0.0.0/8
 - accessibilité de serveurs dont l'adresse est translatée
 
 Nous allons voir qu'IPv6, construit à partir  du retour d'expérience IPv4, apporte des réponses concrètes à ces deux points.
 
-De plus, l'arrivée des objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules, ...) augmente la demande des subnets à attribuer et bouscule le plan d'adressage des organisations. 
+De plu'est pas crédible d'attendre un autre protocole de transport. 
+
+En pratique, la plupart des entreprises utilise le réseau 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6.
+
+Toutefois, l'arrivée des objets connectés dans les entreprises (caméras vidéo, bornes wifi, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniquese IPv, il ns, les véhicules, ...) augmente la demande nombre des subnets à attribuer et bouscule le plan d'adressage des organisations. 
 Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ensembles d'objets en nombre difficilement prévisible qui doivent appartenir à des nouveaux subnets pour leur adjoindre le bon niveau de sécurité (côté sécurité, c'est cool  de distinguer facilement un humain d'un interrupteur).
 
 IPv6 est une réponse satisfaisante à ces nouveaux usages. De plus, ces subnets souvent peu critiques sont d'excellents candidats pour une première expérience en IPv6. D'autant plus qu'en configurant ces équipements en IPv6 dès le début, on s'évite une phase de migration ultérieure. 
@@ -50,11 +55,12 @@ En outre,
  
 
 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTk2Nzk1MSwtMTE0NjQwNzEzOSwtMT
-IyNDY4MzMwOSwtMTkwMDQ1MzczNCw3ODgzMTcyOTgsLTE2MDk0
-MjkxMjEsLTEzNTAxNjk5OTIsLTEzNjI5ODY0MzcsLTM2ODgyMD
-E0Miw3MDUyNDcwMTIsNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5
-NTc0MzExN119
+eyJoaXN0b3J5IjpbLTE4Mzc0NzY5ODgsLTMzNTk2Nzk1MSwtMT
+E0NjQwNzEzOSwtMTIyNDY4MzMwOSwtMTkwMDQ1MzczNCw3ODgz
+MTcyOTgsLTE2MDk0MjkxMjEsLTEzNTAxNjk5OTIsLTEzNjI5OD
+Y0MzcsLTM2ODgyMDE0Miw3MDUyNDcwMTIsNjI5MjQyOTM3LDEw
+MjUzNTc0ODQsMTM5NTc0MzExN119
 -->
