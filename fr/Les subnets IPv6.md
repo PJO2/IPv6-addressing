@@ -7,10 +7,12 @@ Si on se calque sur IPv4, où les subnets courants sont en /24 pour allouer jusq
 
 Pourtant, la RFC4291 impose un masque /64 pour tous les subnets.
 
-Il faut bien re c'est simple ! mais on peut quand même se demander si 
-Simple : 
+Il faut bien reconnaître que cette règle a le grand avantage de la simplicité et de l'uniformité !
 
-> Written with [StackEdit](https://stackedit.io/).
+Mais on a quand même se demander si ce n'est pas du gaspillage.
+
+Il faut alors réaliser qu'il reste encore 64 bits pour les réseaux, ce qui donne un nombre encore 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzczMzA2OTYsODU5MzM1NTY2XX0=
+eyJoaXN0b3J5IjpbLTE5NDE0MDM2MDksODU5MzM1NTY2XX0=
 -->
