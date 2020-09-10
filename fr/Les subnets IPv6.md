@@ -12,8 +12,8 @@ Il faut bien reconnaître que cette règle a le grand avantage de la simplicité
 Mais on a quand même se demander si ce n'est pas du gaspillage.
 
 Il faut alors réaliser qu'il reste encore 64 bits pour les réseaux, ce qui donne un nombre encore gigantesque. 
-Bien que codées **que** sur 48 bits et beauco,  Les adresses MAC codées sur 48 bits et beaucoup plus utilisées que des subnets  
+Bien que codées **que** sur 48 bits et beaucoup plus répandues que des subnets IP,  il n'a été attribué que 0,17% de l'espace.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjY3OTkwLDg1OTMzNTU2Nl19
+eyJoaXN0b3J5IjpbLTE0Mjc5NjE2NjcsODU5MzM1NTY2XX0=
 -->
