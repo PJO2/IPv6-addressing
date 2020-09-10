@@ -5,10 +5,10 @@ Quel subnet doit-on allouer en IPv6 ?
 
 Si on se calque sur IPv4, où les subnets courants sont en /24 pour allouer jusqu'à 254 hosts, un /120 devrait être correct., et en prenant très large, un /112 serait le bout du monde : après tout qui veut avoir plus de 50.000 hosts sur le même segment.
 
-Pourtant, le RFC 
+Pourtant,la  RFC4291
 Simple : 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5MzM1NTY2XX0=
+eyJoaXN0b3J5IjpbLTEwNTk2OTUyMzQsODU5MzM1NTY2XX0=
 -->
