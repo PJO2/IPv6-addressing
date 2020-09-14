@@ -26,7 +26,7 @@ Nous allons voir qu'IPv6, construit à partir  du retour d'expérience IPv4, app
 Toutefois, l'arrivée des objets connectés dans les entreprises (caméras vidéo, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules, ...) augmente la demande nombre des subnets à attribuer et bouscule le plan d'adressage des organisations. 
 Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ensembles d'objets en nombre difficilement prévisible qui doivent appartenir à des nouveaux subnets pour leur adjoindre le bon niveau de sécurité (côté sécurité, c'est cool  de distinguer facilement un humain d'un interrupteur).
 
-IPv6 est une réponse satisfaisante à ces nouveaux usages. De plus, ces subnets souvent peu critiques sont d'excellents candidats pour une première expérience en IPv6. D'autant plus qu'en configurant ces équipements en IPv6 dès le début, on s'évite une phase de migration ultérieure. 
+Encore une fois, IPv6 est une réponse satisfaisante à ces nouveaux usages. De plus, ces subnets souvent peu critiques sont d'excellents candidats pour une première expérience en IPv6. D'autant plus qu'en configurant ces équipements en IPv6 dès le début, on s'évite une phase de migration ultérieure. 
 
 
 ## Pourquoi IPv6 ?
@@ -50,9 +50,9 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3NDkwODc5LC0xODM3NDc2OTg4LC0zMz
-U5Njc5NTEsLTExNDY0MDcxMzksLTEyMjQ2ODMzMDksLTE5MDA0
-NTM3MzQsNzg4MzE3Mjk4LC0xNjA5NDI5MTIxLC0xMzUwMTY5OT
-kyLC0xMzYyOTg2NDM3LC0zNjg4MjAxNDIsNzA1MjQ3MDEyLDYy
-OTI0MjkzNywxMDI1MzU3NDg0LDEzOTU3NDMxMTddfQ==
+eyJoaXN0b3J5IjpbMjAyNzYxODYxMCwtMTgzNzQ3Njk4OCwtMz
+M1OTY3OTUxLC0xMTQ2NDA3MTM5LC0xMjI0NjgzMzA5LC0xOTAw
+NDUzNzM0LDc4ODMxNzI5OCwtMTYwOTQyOTEyMSwtMTM1MDE2OT
+k5MiwtMTM2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0NzAxMiw2
+MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3XX0=
 -->
