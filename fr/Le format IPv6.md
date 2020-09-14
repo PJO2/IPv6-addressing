@@ -1,7 +1,7 @@
 
-Préparer une migration en IPv6
+Adresser une organisation en IPv6 : les best practices
 
-Ce nouveau cycle de présentation est là pour échanger autour des best practices relatives à la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, établissement public, ...). I suppose que vous êtes déjà familier avec le format IPv6.
+Ce nouveau cycle de présentation est là pour échanger autour des best practices relatives à la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, établissement public, ...). Il s'adresse à un public familiarisé avec le format IPv6.
 
 
 ## Les limitations d'IPv4 ?
@@ -55,9 +55,9 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTIyMzEwOSwtMTgzNzQ3Njk4OCwtMz
-M1OTY3OTUxLC0xMTQ2NDA3MTM5LC0xMjI0NjgzMzA5LC0xOTAw
-NDUzNzM0LDc4ODMxNzI5OCwtMTYwOTQyOTEyMSwtMTM1MDE2OT
-k5MiwtMTM2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0NzAxMiw2
-MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3XX0=
+eyJoaXN0b3J5IjpbLTEwNDU0MzczNzEsLTE4Mzc0NzY5ODgsLT
+MzNTk2Nzk1MSwtMTE0NjQwNzEzOSwtMTIyNDY4MzMwOSwtMTkw
+MDQ1MzczNCw3ODgzMTcyOTgsLTE2MDk0MjkxMjEsLTEzNTAxNj
+k5OTIsLTEzNjI5ODY0MzcsLTM2ODgyMDE0Miw3MDUyNDcwMTIs
+NjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5NTc0MzExN119
 -->
