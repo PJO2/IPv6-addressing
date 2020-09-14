@@ -1,7 +1,8 @@
 
 Préparer une migration en IPv6
 
-Ce nouveau cycle de présentation est là pour échanger autour des best practices pour la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, établissement public, ...). Il suppose que vous êtes déjà familier avec le format IPv6
+Ce nouveau cycle de présentation est là pour échanger autour des best practices relatives à la mise en place d'un plan d'adressage IPv6 au sein d'une organisation (entreprise, établissement public, ...). I suppose que vous êtes déjà familier avec le format IPv6.
+
 
 ## Les limitations d'IPv4 ?
 sous-titre: quels problèmes IPv6 prétend résoudre ?
@@ -44,10 +45,7 @@ En effet, il a fallu près de 15 ans pour stabiliser et sécuriser le protocole 
 De plus,  IPv6 est complètement fonctionnel sur la plupart des systèmes, y compris les systèmes embarqués qui intègrent dans leur grande majorité un OS linux sur lequel IPv6 est natif depuis la version 2.6 datant de 2006. 
 
 
-Et si vous m'avez bien suivi 
-En d'autres termes, la seule décision que nous avons, c'est **quand** nous allons passer à IPv6 ! 
-
-En outre, 
+Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c'est **quand** et **comment** nous allons passer à IPv6 ! 
 
 
 
@@ -56,11 +54,10 @@ En outre,
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc0NzY5ODgsLTMzNTk2Nzk1MSwtMT
-E0NjQwNzEzOSwtMTIyNDY4MzMwOSwtMTkwMDQ1MzczNCw3ODgz
-MTcyOTgsLTE2MDk0MjkxMjEsLTEzNTAxNjk5OTIsLTEzNjI5OD
-Y0MzcsLTM2ODgyMDE0Miw3MDUyNDcwMTIsNjI5MjQyOTM3LDEw
-MjUzNTc0ODQsMTM5NTc0MzExN119
+eyJoaXN0b3J5IjpbLTMyNTIyMzEwOSwtMTgzNzQ3Njk4OCwtMz
+M1OTY3OTUxLC0xMTQ2NDA3MTM5LC0xMjI0NjgzMzA5LC0xOTAw
+NDUzNzM0LDc4ODMxNzI5OCwtMTYwOTQyOTEyMSwtMTM1MDE2OT
+k5MiwtMTM2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0NzAxMiw2
+MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3XX0=
 -->
