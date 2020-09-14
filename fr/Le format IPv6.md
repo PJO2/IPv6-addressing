@@ -15,9 +15,9 @@ IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 p
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées conjointement  par plusieurs organisations 
  - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse publique 
   
-Ainsi, en pratique, la plupart des organisations utilise le réseau privé 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6. De plus, tous les opérateurs Internet grand public regroupent les réseaux personnels (home network) sur une seule adresse IP (NAT), et certains regroupent un grand de réseaux personnels sur un nombre réduit d'adresses publiques (large scale NAT). 
+Ainsi, en pratique, la plupart des organisations utilise le réseau privé 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6. De plus, tous les opérateurs Internet grand public regroupent les réseaux personnels (home network) sur une seule adresse IP (NAT), et certains regroupent même un grand nombre de réseaux personnels sur un nombre réduit d'adresses publiques (large scale NAT). 
 
-Si ces 2 mécanismes permettent effectivement d'économiser les adres
+Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv
 La seule alternative possible à IPv4 s'appelle IPv6. En d'autres termes, la seule décision que nous avons, c'est quand nous allons passer à IPv6 ! En effet, il a fallu près de 15 ans pour stabiliser et sécurisesr IPv46, ils ne répondent pas efficacement à certains usages :
 - fusion d'organisations partageant les mêmes adresses en 10.0.0.0/8
 - accessibilité de serveurs dont l'adresse est translatée
@@ -55,9 +55,9 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU0MzczNzEsLTE4Mzc0NzY5ODgsLT
-MzNTk2Nzk1MSwtMTE0NjQwNzEzOSwtMTIyNDY4MzMwOSwtMTkw
-MDQ1MzczNCw3ODgzMTcyOTgsLTE2MDk0MjkxMjEsLTEzNTAxNj
-k5OTIsLTEzNjI5ODY0MzcsLTM2ODgyMDE0Miw3MDUyNDcwMTIs
-NjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5NTc0MzExN119
+eyJoaXN0b3J5IjpbNzM5NjEwNjI5LC0xODM3NDc2OTg4LC0zMz
+U5Njc5NTEsLTExNDY0MDcxMzksLTEyMjQ2ODMzMDksLTE5MDA0
+NTM3MzQsNzg4MzE3Mjk4LC0xNjA5NDI5MTIxLC0xMzUwMTY5OT
+kyLC0xMzYyOTg2NDM3LC0zNjg4MjAxNDIsNzA1MjQ3MDEyLDYy
+OTI0MjkzNywxMDI1MzU3NDg0LDEzOTU3NDMxMTddfQ==
 -->
