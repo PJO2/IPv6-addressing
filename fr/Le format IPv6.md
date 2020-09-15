@@ -27,7 +27,7 @@ Nous allons voir qu'IPv6, construit à partir  du retour d'expérience IPv4, app
 
 ## IPv6, la solution ?
 
-IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer un nombre d'adresses en apparence illimité ([150 bits permettent de compter les atomes de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). Il permet d'attribuer des adresses uniques à chaque nouvel objet pour un très grand nombre d'années. En pratique, avec "seulement" 48 bits, le nombre d'adresses MAC allouées  
+IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer un nombre d'adresses en apparence illimité ([150 bits permettent de compter les atomes de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). Il permet d'attribuer des adresses uniques à chaque nouvel objet pour un très grand nombre d'années. En effet, on a attribué moins de 2 pour 1000 
 
 
 Encore une fois, IPv6 est une réponse satisfaisante à ces nouveaux usages. De plus, ces subnets souvent peu critiques sont d'excellents candidats pour une première expérience en IPv6. D'autant plus qu'en configurant ces équipements en IPv6 dès le début, on s'évite une phase de migration ultérieure. 
@@ -54,10 +54,10 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDMxMjA2MiwyMDI3NjE4NjEwLC0xOD
-M3NDc2OTg4LC0zMzU5Njc5NTEsLTExNDY0MDcxMzksLTEyMjQ2
-ODMzMDksLTE5MDA0NTM3MzQsNzg4MzE3Mjk4LC0xNjA5NDI5MT
-IxLC0xMzUwMTY5OTkyLC0xMzYyOTg2NDM3LC0zNjg4MjAxNDIs
-NzA1MjQ3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0LDEzOTU3ND
-MxMTddfQ==
+eyJoaXN0b3J5IjpbMTM3NTMxMjIyOCwtMjk0MzEyMDYyLDIwMj
+c2MTg2MTAsLTE4Mzc0NzY5ODgsLTMzNTk2Nzk1MSwtMTE0NjQw
+NzEzOSwtMTIyNDY4MzMwOSwtMTkwMDQ1MzczNCw3ODgzMTcyOT
+gsLTE2MDk0MjkxMjEsLTEzNTAxNjk5OTIsLTEzNjI5ODY0Mzcs
+LTM2ODgyMDE0Miw3MDUyNDcwMTIsNjI5MjQyOTM3LDEwMjUzNT
+c0ODQsMTM5NTc0MzExN119
 -->
