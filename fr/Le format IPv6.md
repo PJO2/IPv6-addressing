@@ -29,9 +29,10 @@ Nous allons voir qu'IPv6, construit à partir  du retour d'expérience IPv4, app
 
 IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer un nombre d'adresses en apparence illimité ([150 bits permettent de compter les atomes de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). 
 
-64 bits auraient pu suffire pour fournir des adresses uniques pendant la durée de vie du protocole. En effet, les adresses MAC des cartes Ethernet, codées sur "seulement" 48 bits  sont [loin d'être toutes attribuées](https://macaddress.io/statistics), et la croissance passée permet de prédire sans trop de risques [quelques décennies sans pénurie](https://macaddress.io/statistics/date).
+64 bits auraient pu suffire pour fournir des adresses uniques pendant la durée de vie du protocole. En effet, les adresses MAC des cartes Ethernet, codées sur "seulement" 48 bits  [sont loin d'être toutes attribuées](https://macaddress.io/statistics), et la croissance passée permet de prédire sans trop de risques [quelques décennies sans pénurie](https://macaddress.io/statistics/date).
 
-En outre IPv6 a été conçu avec un refus des fonctions de translation d'adresses : NAT c'est le mal :
+
+En outre IPv6 a été conçu avec un refus des fonctions de translation d'adresses : NAT c'est le mal !
 NAT limite la visibilité des serveurs (impossibilité d'accéder à un service), des adresses source (statistiques tronquées) et donne une fausse impression de sécurité :
 - La sécurité de base consiste à filtrer les TCP SYN arrivant sur le port WAN, ainsi que les ports UDP non ouverts depuis le LAN. Et n'importe quel routeur, y compris la Livebox d'Orange, en est capable.
 - NAT n'apporte qu'un anonymat illusoire :  d'une part les providers Internet sont tenus par la législation de vous tracer, d'autre part les sites Web utilisent tout un arsenal de cookies pour vous repérer.
@@ -59,11 +60,11 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgyNzgwMDUsLTIwMDg4MTMwODgsMT
-kzMjk2NDM5LC0yOTQzMTIwNjIsMjAyNzYxODYxMCwtMTgzNzQ3
-Njk4OCwtMzM1OTY3OTUxLC0xMTQ2NDA3MTM5LC0xMjI0NjgzMz
-A5LC0xOTAwNDUzNzM0LDc4ODMxNzI5OCwtMTYwOTQyOTEyMSwt
-MTM1MDE2OTk5MiwtMTM2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNT
-I0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3
-XX0=
+eyJoaXN0b3J5IjpbLTE0MTE0MDAwMjIsLTE4NDgyNzgwMDUsLT
+IwMDg4MTMwODgsMTkzMjk2NDM5LC0yOTQzMTIwNjIsMjAyNzYx
+ODYxMCwtMTgzNzQ3Njk4OCwtMzM1OTY3OTUxLC0xMTQ2NDA3MT
+M5LC0xMjI0NjgzMzA5LC0xOTAwNDUzNzM0LDc4ODMxNzI5OCwt
+MTYwOTQyOTEyMSwtMTM1MDE2OTk5MiwtMTM2Mjk4NjQzNywtMz
+Y4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4
+NCwxMzk1NzQzMTE3XX0=
 -->
