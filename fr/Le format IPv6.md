@@ -32,7 +32,7 @@ IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 p
 64 bits auraient pu suffire pour fournir des adresses uniques pendant la durée de vie du protocole. En effet, les adresses MAC des cartes Ethernet, codées sur "seulement" 48 bits  sont [loin d'être toutes attribuées](https://macaddress.io/statistics), et la croissance passée permet de prédire sans trop de risques [quelques décennies sans pénurie](https://macaddress.io/statistics/date).
 
 En outre IPv6 a été conçu avec un refus des fonctions de translation d'adresses : NAT c'est le mal :
-NAT limite la visibilité des serveurs (impossibilité d'accéder à un service), des adresses source et 
+NAT limite la visibilité des serveurs (impossibilité d'accéder à un service), des adresses source (statistiques tronquées) et donne une fausse impression de sé
 J'espère d'ailleurs qu'aucun lecteur ne pense encore que le NAT est une fonction de sécurité. La sécurité consiste à filtrer les TCP SYN arrivant sur le port WAN, ainsi que les ports UDP non ouverts depuis le LAN. Et n'importe quel routeur, y compris la Livebox d'Orange, en est capable.
 
 Bref, je clos ma parenthèse et 
@@ -58,7 +58,7 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjczMDIwNzYsLTIwMDg4MTMwODgsMT
+eyJoaXN0b3J5IjpbLTE2MTMxOTc5MzMsLTIwMDg4MTMwODgsMT
 kzMjk2NDM5LC0yOTQzMTIwNjIsMjAyNzYxODYxMCwtMTgzNzQ3
 Njk4OCwtMzM1OTY3OTUxLC0xMTQ2NDA3MTM5LC0xMjI0NjgzMz
 A5LC0xOTAwNDUzNzM0LDc4ODMxNzI5OCwtMTYwOTQyOTEyMSwt
