@@ -9,9 +9,9 @@ sous-titre: quels problèmes IPv6 prétend résoudre ?
 
 IPv4 est victime de son succès et les adresses publiques autorisées par le protocole ont été entièrement attribuées. Il est possible de racheter des adresses déjà attribuées pour un prix de l'ordre de [25$ par adresse](https://auctions.ipv4.global/).
 
-IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer un nombre d'adresses en apparence illimité ([150 bits permettent de compter les atomes de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). 
 
-2 mécanismes nous permettent quand même de continuer à vivre avec IPv4 :
+
+Malgré l'épuisement des adresses, 2 mécanismes nous permettent quand même de continuer à vivre avec IPv4 :
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées conjointement  par plusieurs organisations 
  - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse publique 
   
@@ -50,9 +50,10 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzYxODYxMCwtMTgzNzQ3Njk4OCwtMz
-M1OTY3OTUxLC0xMTQ2NDA3MTM5LC0xMjI0NjgzMzA5LC0xOTAw
-NDUzNzM0LDc4ODMxNzI5OCwtMTYwOTQyOTEyMSwtMTM1MDE2OT
-k5MiwtMTM2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0NzAxMiw2
-MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1NzQzMTE3XX0=
+eyJoaXN0b3J5IjpbMTYyNTA5MDAyOSwyMDI3NjE4NjEwLC0xOD
+M3NDc2OTg4LC0zMzU5Njc5NTEsLTExNDY0MDcxMzksLTEyMjQ2
+ODMzMDksLTE5MDA0NTM3MzQsNzg4MzE3Mjk4LC0xNjA5NDI5MT
+IxLC0xMzUwMTY5OTkyLC0xMzYyOTg2NDM3LC0zNjg4MjAxNDIs
+NzA1MjQ3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0LDEzOTU3ND
+MxMTddfQ==
 -->
