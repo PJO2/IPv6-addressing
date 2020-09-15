@@ -43,9 +43,13 @@ Pas de doutes, pour les créateurs d'IPv6, le NAT c'est le mal !
 
 En effet, NAT limite la visibilité des serveurs (impossibilité d'accéder à un service), des adresses source (statistiques tronquées) et donne une fausse impression de sécurité (NAT => firewall + anonymat).
 
+### Les problèmes posés par IPv6
+
+Le principal obstacle à IPv6, c'est la non interopérabilité avec IPv4. Un client purement IPv6 ne peut pas dialoguer avec un serveur seulement IPv6. Nous allons voir qu'il va falloir un peu de bonne volonté !
+
 ### Des challengers à IPv6
 
-IPv6 apporte une réponse correctes aux problèmes posés par IPv4. Mais 
+IPv6 apporte une réponse correctes aux problèmes posés par IPv4. Mais quels autres choix avons nous ou pourquoi IPv6 ?
 
 Parce qu'on n'a pas le choix : 
 
@@ -58,6 +62,8 @@ De plus,  IPv6 est complètement fonctionnel sur la plupart des systèmes, y com
 
 Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c'est **quand** et **comment** nous allons passer à IPv6 ! 
 
+Je n'ai pas la réponse à la première question,  mais je vous propose dans les articles suivants une méthodologie pour vous aider à préparer votre migration vers IPv6.
+
 
 
 
@@ -66,7 +72,7 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjAwNjUzOCwtMTQxMTQwMDAyMiwtMT
+eyJoaXN0b3J5IjpbLTQwMjIyODE2MCwtMTQxMTQwMDAyMiwtMT
 g0ODI3ODAwNSwtMjAwODgxMzA4OCwxOTMyOTY0MzksLTI5NDMx
 MjA2MiwyMDI3NjE4NjEwLC0xODM3NDc2OTg4LC0zMzU5Njc5NT
 EsLTExNDY0MDcxMzksLTEyMjQ2ODMzMDksLTE5MDA0NTM3MzQs
