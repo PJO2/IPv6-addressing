@@ -31,6 +31,7 @@ IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 p
 
 64 bits auraient pu suffire pour fournir des adresses uniques pendant la durée de vie du protocole. En effet, les adresses MAC des cartes Ethernet, codées sur "seulement" 48 bits  [sont loin d'être toutes attribuées](https://macaddress.io/statistics), et la croissance passée permet de prédire sans trop de risques [quelques décennies sans pénurie](https://macaddress.io/statistics/date).
 
+Outre la fourniture d'adressses en nombre IPv6 répond au
 
 En outre IPv6 a été conçu avec un refus des fonctions de translation d'adresses : NAT c'est le mal !
 NAT limite la visibilité des serveurs (impossibilité d'accéder à un service), des adresses source (statistiques tronquées) et donne une fausse impression de sécurité :
@@ -60,11 +61,11 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE0MDAwMjIsLTE4NDgyNzgwMDUsLT
-IwMDg4MTMwODgsMTkzMjk2NDM5LC0yOTQzMTIwNjIsMjAyNzYx
-ODYxMCwtMTgzNzQ3Njk4OCwtMzM1OTY3OTUxLC0xMTQ2NDA3MT
-M5LC0xMjI0NjgzMzA5LC0xOTAwNDUzNzM0LDc4ODMxNzI5OCwt
-MTYwOTQyOTEyMSwtMTM1MDE2OTk5MiwtMTM2Mjk4NjQzNywtMz
-Y4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4
-NCwxMzk1NzQzMTE3XX0=
+eyJoaXN0b3J5IjpbLTExNzkzNTk4MzgsLTE0MTE0MDAwMjIsLT
+E4NDgyNzgwMDUsLTIwMDg4MTMwODgsMTkzMjk2NDM5LC0yOTQz
+MTIwNjIsMjAyNzYxODYxMCwtMTgzNzQ3Njk4OCwtMzM1OTY3OT
+UxLC0xMTQ2NDA3MTM5LC0xMjI0NjgzMzA5LC0xOTAwNDUzNzM0
+LDc4ODMxNzI5OCwtMTYwOTQyOTEyMSwtMTM1MDE2OTk5MiwtMT
+M2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5
+MzcsMTAyNTM1NzQ4NF19
 -->
