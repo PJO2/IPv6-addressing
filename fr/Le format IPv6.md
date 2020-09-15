@@ -37,15 +37,15 @@ IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 p
 
 IPv6 prévoit la fourniture d'adresses locales (donc non routées sur Internet), uniques. Pratique quand deux organisations voudront fusionner !
 
-### Abandonner la translation
+### Abandonner la translation d'adresse
 
 Pas de doutes, pour les créateurs d'IPv6, le NAT c'est le mal !
 
-En effet, NAT limite la visibilité des serveurs (impossibilité d'accéder à un service), des adresses source (statistiques tronquées) et donne une fausse impression de sécurité (NAT = firewall + anonymat).
+En effet, NAT limite la visibilité des serveurs (impossibilité d'accéder à un service), des adresses source (statistiques tronquées) et donne une fausse impression de sécurité (NAT => firewall + anonymat).
 
-Bref, je clos ma parenthèse et 
+### Des challengers à IPv6
 
-## Pourquoi IPv6 ?
+IPv6 apporte une réponse correctes aux problèmes posés par IPv4. Mais 
 
 Parce qu'on n'a pas le choix : 
 
@@ -66,7 +66,7 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDQ3NDgyOCwtMTQxMTQwMDAyMiwtMT
+eyJoaXN0b3J5IjpbMTkyNjAwNjUzOCwtMTQxMTQwMDAyMiwtMT
 g0ODI3ODAwNSwtMjAwODgxMzA4OCwxOTMyOTY0MzksLTI5NDMx
 MjA2MiwyMDI3NjE4NjEwLC0xODM3NDc2OTg4LC0zMzU5Njc5NT
 EsLTExNDY0MDcxMzksLTEyMjQ2ODMzMDksLTE5MDA0NTM3MzQs
