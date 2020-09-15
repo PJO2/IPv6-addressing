@@ -29,8 +29,9 @@ Nous allons voir qu'IPv6, construit à partir  du retour d'expérience IPv4, app
 
 IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer un nombre d'adresses en apparence illimité ([150 bits permettent de compter les atomes de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). 
 
-64 bits auraient pu suffire pour fournir des adresses uniques. En effet, les adresses MAC des cartes Ethernet, codées sur "seulement" 48 bits  sont [loin d'être toutes attribuées](https://macaddress.io/statistics), et la croissance passée permet de prédire [quelques décennies sans pénurie](https://macaddress.io/statistics/date).
+64 bits auraient pu suffire pour fournir des adresses uniques. En effet, les adresses MAC des cartes Ethernet, codées sur "seulement" 48 bits  sont [loin d'être toutes attribuées](https://macaddress.io/statistics), et la croissance passée permet de prédire sans trop de risques [quelques décennies sans pénurie](https://macaddress.io/statistics/date).
 
+IPv6 
 
 
 ## Pourquoi IPv6 ?
@@ -54,7 +55,7 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc1NTg5MjYsLTI5NDMxMjA2MiwyMD
+eyJoaXN0b3J5IjpbLTExOTg2MzEwMzAsLTI5NDMxMjA2MiwyMD
 I3NjE4NjEwLC0xODM3NDc2OTg4LC0zMzU5Njc5NTEsLTExNDY0
 MDcxMzksLTEyMjQ2ODMzMDksLTE5MDA0NTM3MzQsNzg4MzE3Mj
 k4LC0xNjA5NDI5MTIxLC0xMzUwMTY5OTkyLC0xMzYyOTg2NDM3
