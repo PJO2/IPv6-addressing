@@ -39,12 +39,9 @@ IPv6 prévoit la fourniture d'adresses locales (donc non routées sur Internet),
 
 ### Abandonner la translation
 
-Outre la fourniture d'adresses en nombre, IPv6 répond aux deux problèmes 
+Pas de doutes, pour les créateurs d'IPv6, le NAT c'est le mal !
 
-En outre IPv6 a été conçu avec un refus des fonctions de translation d'adresses : NAT c'est le mal !
-NAT limite la visibilité des serveurs (impossibilité d'accéder à un service), des adresses source (statistiques tronquées) et donne une fausse impression de sécurité :
-- La sécurité de base consiste à filtrer les TCP SYN arrivant sur le port WAN, ainsi que les ports UDP non ouverts depuis le LAN. Et n'importe quel routeur, y compris la Livebox d'Orange, en est capable.
-- NAT n'apporte qu'un anonymat illusoire :  d'une part les providers Internet sont tenus par la législation de vous tracer, d'autre part les sites Web utilisent tout un arsenal de cookies pour vous repérer.
+En effet, NAT limite la visibilité des serveurs (impossibilité d'accéder à un service), des adresses source (statistiques tronquées) et donne une fausse impression de sécurité (NAT = firewall + anonymat).
 
 Bref, je clos ma parenthèse et 
 
@@ -69,11 +66,11 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk2NTczMDQsLTE0MTE0MDAwMjIsLT
-E4NDgyNzgwMDUsLTIwMDg4MTMwODgsMTkzMjk2NDM5LC0yOTQz
-MTIwNjIsMjAyNzYxODYxMCwtMTgzNzQ3Njk4OCwtMzM1OTY3OT
-UxLC0xMTQ2NDA3MTM5LC0xMjI0NjgzMzA5LC0xOTAwNDUzNzM0
-LDc4ODMxNzI5OCwtMTYwOTQyOTEyMSwtMTM1MDE2OTk5MiwtMT
-M2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5
-MzcsMTAyNTM1NzQ4NF19
+eyJoaXN0b3J5IjpbLTI1MDQ3NDgyOCwtMTQxMTQwMDAyMiwtMT
+g0ODI3ODAwNSwtMjAwODgxMzA4OCwxOTMyOTY0MzksLTI5NDMx
+MjA2MiwyMDI3NjE4NjEwLC0xODM3NDc2OTg4LC0zMzU5Njc5NT
+EsLTExNDY0MDcxMzksLTEyMjQ2ODMzMDksLTE5MDA0NTM3MzQs
+Nzg4MzE3Mjk4LC0xNjA5NDI5MTIxLC0xMzUwMTY5OTkyLC0xMz
+YyOTg2NDM3LC0zNjg4MjAxNDIsNzA1MjQ3MDEyLDYyOTI0Mjkz
+NywxMDI1MzU3NDg0XX0=
 -->
