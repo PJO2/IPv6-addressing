@@ -9,19 +9,22 @@ sous-titre: quels problèmes IPv6 prétend résoudre ?
 
 IPv4 est victime de son succès et les adresses publiques autorisées par le protocole ont été entièrement attribuées. Il est possible de racheter des adresses déjà attribuées pour un prix de l'ordre de [25$ par adresse](https://auctions.ipv4.global/).
 
-
-
 Malgré l'épuisement des adresses, 2 mécanismes nous permettent quand même de continuer à vivre avec IPv4 :
  - Les adresses privées, non routées sur Internet,  qui peuvent être utilisées conjointement  par plusieurs organisations 
  - Le NAT qui permet de translater un subnet d'adresses privées vers une seule adresse publique 
   
 Ainsi, en pratique, la plupart des organisations utilise le réseau privé 10.0.0.0/8 et ne s'estime pas encore concerné par  IPv6. De plus, tous les opérateurs Internet grand public regroupent les réseaux personnels (home network) sur une seule adresse IP (NAT), et certains regroupent même un grand nombre de réseaux personnels sur un nombre réduit d'adresses publiques (large scale NAT). 
 
-Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, ils ne répondent pas efficacement à certains usages :
+
+Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, ils ne font que repousser  répondent pas efficacement à certains usages :
 - fusion d'organisations partageant les mêmes adresses en 10.0.0.0/8
 - accessibilité de serveurs dont l'adresse est translatée
 
+
 Nous allons voir qu'IPv6, construit à partir  du retour d'expérience IPv4, apporte des réponses concrètes à ces deux points.
+
+
+IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer un nombre d'adresses en apparence illimité ([150 bits permettent de compter les atomes de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). 
 
 Toutefois, l'arrivée des objets connectés dans les entreprises (caméras vidéo, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules, ...) augmente la demande nombre des subnets à attribuer et bouscule le plan d'adressage des organisations. 
 Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ensembles d'objets en nombre difficilement prévisible qui doivent appartenir à des nouveaux subnets pour leur adjoindre le bon niveau de sécurité (côté sécurité, c'est cool  de distinguer facilement un humain d'un interrupteur).
@@ -50,10 +53,10 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTA5MDAyOSwyMDI3NjE4NjEwLC0xOD
-M3NDc2OTg4LC0zMzU5Njc5NTEsLTExNDY0MDcxMzksLTEyMjQ2
-ODMzMDksLTE5MDA0NTM3MzQsNzg4MzE3Mjk4LC0xNjA5NDI5MT
-IxLC0xMzUwMTY5OTkyLC0xMzYyOTg2NDM3LC0zNjg4MjAxNDIs
-NzA1MjQ3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0LDEzOTU3ND
-MxMTddfQ==
+eyJoaXN0b3J5IjpbLTE1MjU2MzU3MzgsMjAyNzYxODYxMCwtMT
+gzNzQ3Njk4OCwtMzM1OTY3OTUxLC0xMTQ2NDA3MTM5LC0xMjI0
+NjgzMzA5LC0xOTAwNDUzNzM0LDc4ODMxNzI5OCwtMTYwOTQyOT
+EyMSwtMTM1MDE2OTk5MiwtMTM2Mjk4NjQzNywtMzY4ODIwMTQy
+LDcwNTI0NzAxMiw2MjkyNDI5MzcsMTAyNTM1NzQ4NCwxMzk1Nz
+QzMTE3XX0=
 -->
