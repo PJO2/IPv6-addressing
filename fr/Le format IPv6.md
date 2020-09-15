@@ -35,7 +35,9 @@ IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 p
 
 ### Fournir des adresses uniques aux organisations
 
-IPv6 prévoit la fourniture d'adresses locales (donc non routées sur Internet), uniques. Pratique 
+IPv6 prévoit la fourniture d'adresses locales (donc non routées sur Internet), uniques. Pratique quand deux organisations voudront fusionner !
+
+### Abandonner la translation
 
 Outre la fourniture d'adresses en nombre, IPv6 répond aux deux problèmes 
 
@@ -67,11 +69,11 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDM5MDU0MiwtMTQxMTQwMDAyMiwtMT
-g0ODI3ODAwNSwtMjAwODgxMzA4OCwxOTMyOTY0MzksLTI5NDMx
-MjA2MiwyMDI3NjE4NjEwLC0xODM3NDc2OTg4LC0zMzU5Njc5NT
-EsLTExNDY0MDcxMzksLTEyMjQ2ODMzMDksLTE5MDA0NTM3MzQs
-Nzg4MzE3Mjk4LC0xNjA5NDI5MTIxLC0xMzUwMTY5OTkyLC0xMz
-YyOTg2NDM3LC0zNjg4MjAxNDIsNzA1MjQ3MDEyLDYyOTI0Mjkz
-NywxMDI1MzU3NDg0XX0=
+eyJoaXN0b3J5IjpbLTE2Mjk2NTczMDQsLTE0MTE0MDAwMjIsLT
+E4NDgyNzgwMDUsLTIwMDg4MTMwODgsMTkzMjk2NDM5LC0yOTQz
+MTIwNjIsMjAyNzYxODYxMCwtMTgzNzQ3Njk4OCwtMzM1OTY3OT
+UxLC0xMTQ2NDA3MTM5LC0xMjI0NjgzMzA5LC0xOTAwNDUzNzM0
+LDc4ODMxNzI5OCwtMTYwOTQyOTEyMSwtMTM1MDE2OTk5MiwtMT
+M2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5
+MzcsMTAyNTM1NzQ4NF19
 -->
