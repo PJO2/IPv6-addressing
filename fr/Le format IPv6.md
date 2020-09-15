@@ -32,6 +32,11 @@ IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 p
 
 64 bits auraient pu suffire pour fournir des adresses uniques pendant la durée de vie du protocole. En effet, les adresses MAC des cartes Ethernet, codées sur "seulement" 48 bits  [sont loin d'être toutes attribuées](https://macaddress.io/statistics), et la croissance passée permet de prédire sans trop de risques [quelques décennies sans pénurie](https://macaddress.io/statistics/date).
 
+
+### Fournir des adresses uniques aux organisations
+
+IPv6 prévoit la fourniture d'adresses locales (donc non routées sur Internet), uniques. Pratique 
+
 Outre la fourniture d'adresses en nombre, IPv6 répond aux deux problèmes 
 
 En outre IPv6 a été conçu avec un refus des fonctions de translation d'adresses : NAT c'est le mal !
@@ -62,7 +67,7 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjQxNjc4NiwtMTQxMTQwMDAyMiwtMT
+eyJoaXN0b3J5IjpbMTg0MDM5MDU0MiwtMTQxMTQwMDAyMiwtMT
 g0ODI3ODAwNSwtMjAwODgxMzA4OCwxOTMyOTY0MzksLTI5NDMx
 MjA2MiwyMDI3NjE4NjEwLC0xODM3NDc2OTg4LC0zMzU5Njc5NT
 EsLTExNDY0MDcxMzksLTEyMjQ2ODMzMDksLTE5MDA0NTM3MzQs
