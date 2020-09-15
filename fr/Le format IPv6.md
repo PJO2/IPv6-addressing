@@ -33,8 +33,8 @@ IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 p
 
 En outre IPv6 a été conçu avec un refus des fonctions de translation d'adresses : NAT c'est le mal :
 NAT limite la visibilité des serveurs (impossibilité d'accéder à un service), des adresses source (statistiques tronquées) et donne une fausse impression de sécurité :
-- La sécurité consiste à filtrer les TCP SYN arrivant sur le port WAN, ainsi que les ports UDP non ouverts depuis le LAN. Et n'importe quel routeur, y compris la Livebox d'Orange, en est capable.
-- NAT n'apporte qu'un anonymat très relatif
+- La sécurité niveau 0 consiste à filtrer les TCP SYN arrivant sur le port WAN, ainsi que les ports UDP non ouverts depuis le LAN. Et n'importe quel routeur, y compris la Livebox d'Orange, en est capable.
+- NAT n'apporte qu'un anonymat illusoire :  
 
 Bref, je clos ma parenthèse et 
 
@@ -59,11 +59,11 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODE0NDYxNCwtMjAwODgxMzA4OCwxOT
-MyOTY0MzksLTI5NDMxMjA2MiwyMDI3NjE4NjEwLC0xODM3NDc2
-OTg4LC0zMzU5Njc5NTEsLTExNDY0MDcxMzksLTEyMjQ2ODMzMD
-ksLTE5MDA0NTM3MzQsNzg4MzE3Mjk4LC0xNjA5NDI5MTIxLC0x
-MzUwMTY5OTkyLC0xMzYyOTg2NDM3LC0zNjg4MjAxNDIsNzA1Mj
-Q3MDEyLDYyOTI0MjkzNywxMDI1MzU3NDg0LDEzOTU3NDMxMTdd
-fQ==
+eyJoaXN0b3J5IjpbODkwNTM3OTIyLC0yMDA4ODEzMDg4LDE5Mz
+I5NjQzOSwtMjk0MzEyMDYyLDIwMjc2MTg2MTAsLTE4Mzc0NzY5
+ODgsLTMzNTk2Nzk1MSwtMTE0NjQwNzEzOSwtMTIyNDY4MzMwOS
+wtMTkwMDQ1MzczNCw3ODgzMTcyOTgsLTE2MDk0MjkxMjEsLTEz
+NTAxNjk5OTIsLTEzNjI5ODY0MzcsLTM2ODgyMDE0Miw3MDUyND
+cwMTIsNjI5MjQyOTM3LDEwMjUzNTc0ODQsMTM5NTc0MzExN119
+
 -->
