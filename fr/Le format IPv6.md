@@ -27,11 +27,12 @@ Nous allons voir qu'IPv6, construit à partir  du retour d'expérience IPv4, app
 
 ## IPv6, la solution ?
 
+### Fournir autant d'adresses que nécessaire
 IPv6 en utilisant un format d'adresse en 128 bits au lieu de 32 bits pour IPv4 permet d'allouer un nombre d'adresses en apparence illimité ([150 bits permettent de compter les atomes de la terre](https://fr.wikipedia.org/wiki/Ordres_de_grandeur_de_nombres#1039_%C3%A0_10100)). 
 
 64 bits auraient pu suffire pour fournir des adresses uniques pendant la durée de vie du protocole. En effet, les adresses MAC des cartes Ethernet, codées sur "seulement" 48 bits  [sont loin d'être toutes attribuées](https://macaddress.io/statistics), et la croissance passée permet de prédire sans trop de risques [quelques décennies sans pénurie](https://macaddress.io/statistics/date).
 
-Outre la fourniture d'adressses en nombre IPv6 répond au
+Outre la fourniture d'adresses en nombre, IPv6 répond aux deux problèmes 
 
 En outre IPv6 a été conçu avec un refus des fonctions de translation d'adresses : NAT c'est le mal !
 NAT limite la visibilité des serveurs (impossibilité d'accéder à un service), des adresses source (statistiques tronquées) et donne une fausse impression de sécurité :
@@ -61,11 +62,11 @@ Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzkzNTk4MzgsLTE0MTE0MDAwMjIsLT
-E4NDgyNzgwMDUsLTIwMDg4MTMwODgsMTkzMjk2NDM5LC0yOTQz
-MTIwNjIsMjAyNzYxODYxMCwtMTgzNzQ3Njk4OCwtMzM1OTY3OT
-UxLC0xMTQ2NDA3MTM5LC0xMjI0NjgzMzA5LC0xOTAwNDUzNzM0
-LDc4ODMxNzI5OCwtMTYwOTQyOTEyMSwtMTM1MDE2OTk5MiwtMT
-M2Mjk4NjQzNywtMzY4ODIwMTQyLDcwNTI0NzAxMiw2MjkyNDI5
-MzcsMTAyNTM1NzQ4NF19
+eyJoaXN0b3J5IjpbLTUwMjQxNjc4NiwtMTQxMTQwMDAyMiwtMT
+g0ODI3ODAwNSwtMjAwODgxMzA4OCwxOTMyOTY0MzksLTI5NDMx
+MjA2MiwyMDI3NjE4NjEwLC0xODM3NDc2OTg4LC0zMzU5Njc5NT
+EsLTExNDY0MDcxMzksLTEyMjQ2ODMzMDksLTE5MDA0NTM3MzQs
+Nzg4MzE3Mjk4LC0xNjA5NDI5MTIxLC0xMzUwMTY5OTkyLC0xMz
+YyOTg2NDM3LC0zNjg4MjAxNDIsNzA1MjQ3MDEyLDYyOTI0Mjkz
+NywxMDI1MzU3NDg0XX0=
 -->
