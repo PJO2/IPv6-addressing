@@ -39,9 +39,9 @@ IPv6 prévoit la fourniture d'adresses locales (donc non routées sur Internet),
 
 ### Abandonner la translation d'adresse
 
-Pas de doutes, pour les créateurs d'IPv6, le NAT c'est le mal !
+Pour les créateurs d'IPv6, le NAT c'est le mal !
 
-En effet, NAT limite la visibilité des adresses source (statistiques tronquées),  donne une fausse impression de sécurité (NAT => firewall + anonymat) et serveurs (impossibilité d'accéder à un service), des 
+- NAT limite la visibilité des adresses source (statistiques tronquées),  donne une fausse impression de sécurité (NAT => firewall + anonymat) et limite l'accessibilité des serveurs (impossibilité d'accéder à un service). Et les serveurs, ce ne sont pas seulement les serveurs Web de dans un monde d'objets, 
 
 ### Les problèmes posés par IPv6
 
@@ -72,5 +72,5 @@ Je n'ai pas la réponse à la première question,  mais je vous propose dans les
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzE3ODY0Nl19
+eyJoaXN0b3J5IjpbMTU4NDc3NTY4MV19
 -->
