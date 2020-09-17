@@ -49,9 +49,9 @@ Pour les créateurs d'IPv6, le NAT c'est le mal !
 
 Le principal obstacle à IPv6, c'est la non interopérabilité avec IPv4. Un client purement IPv6 ne peut pas dialoguer avec un serveur seulement IPv6. 
 
-### Des challengers à IPv6
+### Quels challengers à IPv6 ?
 
-IPv6 apporte une réponse correctes aux problèmes posés par IPv4. Mais quels autres choix avons nous ou pourquoi IPv6 ?
+IPv6 apporte des réponses correctes aux problèmes posés par IPv4. Mais quels autres choix avons nous ou pourquoi IPv6 ?
 
 Parce qu'on n'a pas le choix : 
 
@@ -74,5 +74,5 @@ Je n'ai pas la réponse à la première question,  mais je vous propose dans les
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTgzODk0M119
+eyJoaXN0b3J5IjpbMTkxNDkyNTI2MV19
 -->
