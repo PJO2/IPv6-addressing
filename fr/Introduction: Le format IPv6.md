@@ -48,7 +48,10 @@ Pour les créateurs d'IPv6, le NAT c'est le mal !
 
 ### IPv6 est-il parfait ?
 
-Bien sûr IPv6 est un protocole comme une autre qui résoud des problèmes et en pose d'autres. Le principal obstacle à IPv6, c'est la non interopérabilité avec IPv4. Un client purement IPv6 ne peut pas dialoguer avec un serveur seulement IPv6. 
+Bien sûr IPv6 est un protocole comme une autre qui résout des problèmes et en pose d'autres. 
+
+Le principal obstacle à IPv6, c'est la non interopérabilité avec IPv4. Un client purement IPv6 ne peut pas dialoguer avec un serveur seulement IPv6. 
+
 
 ### Quels challengers à IPv6 ?
 
@@ -75,5 +78,5 @@ Je n'ai pas la réponse à la première question,  mais je vous propose dans les
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Mjg2OTIyOCwxOTE0OTI1MjYxXX0=
+eyJoaXN0b3J5IjpbLTU4OTc0OTg3OCwxOTE0OTI1MjYxXX0=
 -->
