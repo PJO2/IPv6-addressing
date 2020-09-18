@@ -42,8 +42,9 @@ IPv6 prévoit la fourniture d'adresses locales (donc non routées sur Internet),
 Pour les créateurs d'IPv6, le NAT c'est le mal !
 
 - NAT limite la visibilité des adresses source (statistiques tronquées).
-- NAT  donne une fausse impression de sécurité (NAT => firewall + anonymat ?) 
-- Enfin NAT limite l'accessibilité des serveurs (impossibilité d'accéder à un service). Et les serveurs, ce ne sont pas seulement les gros serveurs Web de mon Intranet, ce sont aussi tous mes objets qui s'administrent ou se consultent via une UI Web ou des API REST. 
+- Surtout NAT limite l'accessibilité des serveurs (impossibilité d'accéder à un service derrière une translation). Et les serveurs, ce ne sont pas seulement les gros serveurs Web de mon Intranet, ce sont aussi tous mes objets qui s'administrent ou se consultent via une UI Web ou des API REST. 
+- Enfin NAT  donne une fausse impression de sécurité (je vous laisse disserter sur le sujet "NAT = firewall + anonymat ?". Ceux qui ) 
+
 
 ### Les problèmes posés par IPv6
 
@@ -74,5 +75,5 @@ Je n'ai pas la réponse à la première question,  mais je vous propose dans les
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDkyNTI2MV19
+eyJoaXN0b3J5IjpbMTAwNzgxNjc4NywxOTE0OTI1MjYxXX0=
 -->
