@@ -7,11 +7,15 @@ Ainsi nous devons nous préparer à une migration échelonnée sur des années, 
 
 La première règle concernant IPv6 peut s'énoncer ainsi :
 
-> 
-> 
+> Faire fonctionner le réseau en dual-stack.
+
+Le mode dual stack implémente les 2 protocoles en parallèle. Le réseau utilisera une table de routage IPv4 pour les flux IPv4, une table de routage IPv6 pour les flux IPv6. 
+T
+Cela impose une plus grande consommation de ressources sur les routeurs et il faudra 
+
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MDM5MDc0XX0=
+eyJoaXN0b3J5IjpbLTk4NDI2MjkxN119
 -->
