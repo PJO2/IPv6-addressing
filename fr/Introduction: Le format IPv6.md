@@ -67,7 +67,7 @@ En effet, il a fallu près de 15 ans pour stabiliser et sécuriser le protocole 
 De plus,  IPv6 est complètement fonctionnel sur la plupart des systèmes, y compris les systèmes embarqués qui intègrent dans leur grande majorité un OS linux sur lequel IPv6 est natif depuis la version 2.6 datant de 2006. 
 
 
-Et si vous m'avez bien suivi,  les seules décisions que nous avons ) prendre, c'est **quand** et **comment** nous allons passer à IPv6 ! 
+Aussi, si vous m'avez bien suivi,  les seules décisions que nous avons à prendre, c'est **quand** et **comment** nous allons passer à IPv6 ! 
 
 Je n'ai pas la réponse à la première question,  mais je vous propose dans les articles suivants une méthodologie pour vous aider à préparer votre migration vers IPv6.
 
@@ -79,6 +79,6 @@ Je n'ai pas la réponse à la première question,  mais je vous propose dans les
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzcyOTA4NiwzMjc2Njc5MjksLTEzOT
-kzNTgyMDIsLTU4OTc0OTg3OCwxOTE0OTI1MjYxXX0=
+eyJoaXN0b3J5IjpbLTExMzA0ODQ0NDksMzI3NjY3OTI5LC0xMz
+k5MzU4MjAyLC01ODk3NDk4NzgsMTkxNDkyNTI2MV19
 -->
