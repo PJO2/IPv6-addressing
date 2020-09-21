@@ -1,10 +1,17 @@
 
 IPv6 Quels matériels, quels systèmes, quels logiciels ?
 
-Nous avons vu qu'il fallait se préparer à une migration échelonnée sur des a
+IPv6 n'étant pas interopérable avec IPv4, il est prudent de commencer à déployer des équipements peu critiques et terminer par les systèmes les plus critiques. 
+ 
+Ainsi nous devons nous préparer à une migration échelonnée sur des années, le réseau devant router les flux IPv4 et IPv6 et les serveurs recevoir des requêtes en IPv4 et IPv6.
 
+La première règle concernant IPv6 peut s'énoncer ainsi :
 
+> 
+> 
+> 
 > Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg2MjQzMTFdfQ==
+eyJoaXN0b3J5IjpbMzU3MDM5MDc0XX0=
 -->
