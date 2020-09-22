@@ -11,7 +11,7 @@ Ainsi nous devons nous préparer à une migration échelonnée sur des années, 
 
 La première règle concerne le réseau et peut s'énoncer ainsi :
 
-> Faire fonctionner le réseau en dual-stack.
+    Configurer le réseau en dual-stack.
 
 Le mode dual stack implémente les 2 protocoles en parallèle. Le réseau utilisera une table de routage IPv4 pour les flux IPv4, une table de routage IPv6 pour les flux IPv6. 
 Tous les matériels modernes supportent ce mode, mais il est nécessaire de vérifier le dimensionnement de ses équipements réseau :
@@ -19,15 +19,21 @@ Tous les matériels modernes supportent ce mode, mais il est nécessaire de vér
  - d'une part, la commutation IPv6 basée sur 128 bits est (légèrement) plus lente que la commutation IPv4. Ainsi le nombre de paquets IPv6 commutés par seconde peut être plus faible qu'en IPv4
  - d'autre part, le nombre de routes IPv6 supportées est différent du nombre de routes IPv4 (la plupart du temps les tables hardwares sont séparées. Bien penser à vérifier ce dimensionnement dans la datasheet de vos équipements.
 
+La configuration en dual-sta
+
  ### L'administration
 
-Cette fo
+Cette fois, on va utiliser une règle de bon sens : 
+
+> `If it works, don't fix it !`
+
 
 Cela impose une plus grande consommation de ressources sur les routeurs et il faudra 
 
 > 
 > Written with [StackEdit](https://stackedit.io/).
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTY5NjU4MSwxNDczNDI0MzFdfQ==
+eyJoaXN0b3J5IjpbLTE0ODMzNDY5ODUsMTQ3MzQyNDMxXX0=
 -->
