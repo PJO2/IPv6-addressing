@@ -19,14 +19,15 @@ Tous les matériels modernes supportent ce mode, mais il est nécessaire de vér
  - d'une part, la commutation IPv6 basée sur 128 bits est (légèrement) plus lente que la commutation IPv4. Ainsi le nombre de paquets IPv6 commutés par seconde peut être plus faible qu'en IPv4
  - d'autre part, le nombre de routes IPv6 supportées est différent du nombre de routes IPv4 (la plupart du temps les tables hardwares sont séparées. Bien penser à vérifier ce dimensionnement dans la datasheet de vos équipements.
 
-La configuration en dual-sta
+La configuration en dual-stack se fait de proche en proche en passant sur tous les équipements.
 
  ### L'administration
 
-Cette fois, on va utiliser une règle de bon sens : 
+Cette fois, on va utiliser une règle de bon sens :  `If it works, don't fix it !` En d'autres termes :
 
-> `If it works, don't fix it !`
+    Garder l'administration en IPv4.
 
+Il n'
 
 Cela impose une plus grande consommation de ressources sur les routeurs et il faudra 
 
@@ -35,5 +36,5 @@ Cela impose une plus grande consommation de ressources sur les routeurs et il fa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMzNDY5ODUsMTQ3MzQyNDMxXX0=
+eyJoaXN0b3J5IjpbMTAzMjIwMzI5OSwxNDczNDI0MzFdfQ==
 -->
