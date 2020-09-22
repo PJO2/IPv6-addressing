@@ -23,11 +23,14 @@ La configuration en dual-stack se fait de proche en proche en passant sur tous l
 
  ### L'administration
 
-Cette fois, on va utiliser une règle de bon sens :  `If it works, don't fix it !` En d'autres termes :
+Cette fois, on va utiliser une règle de bon sens :  `If it ain’t broke, don't fix it !` En d'autres termes :
 
     Garder l'administration en IPv4.
 
-Il n'y a aucune urgence à passer l'administration de votre réseau en IPv6.  D'autant plus qu'on est en train de modifier le routage, 
+Parions que la migration va être très longue, il n'y a aucune urgence à passer l'administration de votre réseau en IPv6. Le faire, c'est :
+
+-
+
 
 
 ## Les serveurs
@@ -36,5 +39,5 @@ Il n'y a aucune urgence à passer l'administration de votre réseau en IPv6.  D'
 ### Le routage
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1NjY1NDQwLDE0NzM0MjQzMV19
+eyJoaXN0b3J5IjpbLTExNzIzOTIyMDMsMTQ3MzQyNDMxXX0=
 -->
