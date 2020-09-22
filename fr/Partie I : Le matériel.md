@@ -29,9 +29,9 @@ Cette fois, on va utiliser une règle de bon sens :  `If it ain’t broke, don't
 
 Parions que la migration va être très longue, il n'y a aucune urgence à passer l'administration de votre réseau en IPv6. Le faire, c'est potentiellement :
 
-- rajouter des vulnérabilité dans l'administration
 - rendre le troubleshooting plus complexe en modifiant plusieurs éléments en même temps
-- risquer de 
+- rajouter des vulnérabilités dans l'administration
+- risquer de se 
 
 
 
@@ -41,6 +41,6 @@ Parions que la migration va être très longue, il n'y a aucune urgence à passe
 ### Le routage
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDU3MTEwNyw0MzQzMzIzNCwxNDczND
-I0MzFdfQ==
+eyJoaXN0b3J5IjpbLTEwMDg5Mjk1OTIsNDM0MzMyMzQsMTQ3Mz
+QyNDMxXX0=
 -->
