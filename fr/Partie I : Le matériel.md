@@ -31,16 +31,14 @@ Parions que la migration va être très longue, il n'y a aucune urgence à passe
 
 - rendre le troubleshooting plus complexe en modifiant plusieurs éléments en même temps
 - rajouter des vulnérabilités dans l'administration
-- risquer de se 
+- risquer de se couper la patte !
 
 
 
 ## Les serveurs
 
 
-### Le routage
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg5Mjk1OTIsNDM0MzMyMzQsMTQ3Mz
-QyNDMxXX0=
+eyJoaXN0b3J5IjpbLTE5MTQyNzgyODUsLTEwMDg5Mjk1OTIsND
+M0MzMyMzQsMTQ3MzQyNDMxXX0=
 -->
