@@ -37,9 +37,9 @@ Parions que la migration va être très longue, il n'y a aucune urgence à passe
 
 ## Les serveurs
 
-Les systèmes courants (Linux, rajouter des vulnérabilité dans l'administration
-Windows, Mac-OS) sont dual stack par défaut depuis assez longtemps.  
+Les systèmes courants (Linux Mac-OS, Unix, Windows) sont dual stack par défaut depuis assez longtemps.  Ces systèmes privilégient d'ailleurs IPv6 par rapport à IPv4 lors des requêtes DNS.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDI1OTc1MCwtMTAwODkyOTU5Miw0Mz
+eyJoaXN0b3J5IjpbLTk2NDgwODUyNywtMTAwODkyOTU5Miw0Mz
 QzMzIzNCwxNDczNDI0MzFdfQ==
 -->
