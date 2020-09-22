@@ -27,9 +27,12 @@ Cette fois, on va utiliser une règle de bon sens :  `If it ain’t broke, don't
 
     Garder l'administration en IPv4.
 
-Parions que la migration va être très longue, il n'y a aucune urgence à passer l'administration de votre réseau en IPv6. Le faire, c'est :
+Parions que la migration va être très longue, il n'y a aucune urgence à passer l'administration de votre réseau en IPv6. Le faire, c'est potentiellement :
 
--
+- rajouter des erreurs de configuration
+- rajouter des vulnérabilité dans l'administration
+- rendre le troubleshooting plus complexe en modifiant plusieurs 
+- risquer
 
 
 
@@ -39,5 +42,5 @@ Parions que la migration va être très longue, il n'y a aucune urgence à passe
 ### Le routage
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIzOTIyMDMsMTQ3MzQyNDMxXX0=
+eyJoaXN0b3J5IjpbNDM0MzMyMzQsMTQ3MzQyNDMxXX0=
 -->
