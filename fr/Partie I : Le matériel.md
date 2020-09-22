@@ -27,7 +27,7 @@ Cette fois, on va utiliser une règle de bon sens :  `If it works, don't fix it 
 
     Garder l'administration en IPv4.
 
-Il n'y a aucune urgence à passer l'administration de votre réseau en IPv6.  D'autant qu'à modifier
+Il n'y a aucune urgence à passer l'administration de votre réseau en IPv6.  D'autant plus qu'on est en train de modifier le routage, 
 
 
 ## Les serveurs
@@ -36,5 +36,5 @@ Il n'y a aucune urgence à passer l'administration de votre réseau en IPv6.  D'
 ### Le routage
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTQxMzU1OSwxNDczNDI0MzFdfQ==
+eyJoaXN0b3J5IjpbMzA1NjY1NDQwLDE0NzM0MjQzMV19
 -->
