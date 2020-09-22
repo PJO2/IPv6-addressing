@@ -27,14 +27,14 @@ Cette fois, on va utiliser une règle de bon sens :  `If it works, don't fix it 
 
     Garder l'administration en IPv4.
 
-Il n'y a aucune urgence à passer l'administration de votre réseau en IPv6.  
+Il n'y a aucune urgence à passer l'administration de votre réseau en IPv6.  D'autant qu'à modifier
 
-Cela impose une plus grande consommation de ressources sur les routeurs et il faudra 
 
-> 
-> Written with [StackEdit](https://stackedit.io/).
+## Les serveurs
 
+
+### Le routage
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODcyMzIwNiwxNDczNDI0MzFdfQ==
+eyJoaXN0b3J5IjpbLTg1OTQxMzU1OSwxNDczNDI0MzFdfQ==
 -->
