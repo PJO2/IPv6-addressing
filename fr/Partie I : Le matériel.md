@@ -27,7 +27,7 @@ Cette fois, on va utiliser une règle de bon sens :  `If it works, don't fix it 
 
     Garder l'administration en IPv4.
 
-Il n'
+Il n'y a aucune urgence à passer l'administration de votre réseau en IPv6. Le faire pourrait, en revanche, avoir des conséquences désastreuses
 
 Cela impose une plus grande consommation de ressources sur les routeurs et il faudra 
 
@@ -36,5 +36,5 @@ Cela impose une plus grande consommation de ressources sur les routeurs et il fa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjIwMzI5OSwxNDczNDI0MzFdfQ==
+eyJoaXN0b3J5IjpbOTQ1MDQ3OTQ3LDE0NzM0MjQzMV19
 -->
