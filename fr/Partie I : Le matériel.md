@@ -25,7 +25,7 @@ La configuration en dual-stack se fait de proche en proche en passant sur tous l
 
 Cette fois, on va utiliser une règle de bon sens :  `If it ain’t broke, don't fix it !` En d'autres termes :
 
-    Garder l'administration en IPv4.
+    Garder l'administration en IPv4. (pour lemoment)
 
 Parions que la migration va être très longue, il n'y a aucune urgence à passer l'administration de votre réseau en IPv6. Le faire, c'est potentiellement :
 
@@ -40,6 +40,6 @@ Parions que la migration va être très longue, il n'y a aucune urgence à passe
 Les systèmes courants (Linux Mac-OS, Unix, Windows) sont dual stack par défaut depuis assez longtemps.  Ces systèmes privilégient d'ailleurs IPv6 par rapport à IPv4 lors des requêtes DNS.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDgwODUyNywtMTAwODkyOTU5Miw0Mz
-QzMzIzNCwxNDczNDI0MzFdfQ==
+eyJoaXN0b3J5IjpbLTIwNDA2NjQwNTksLTk2NDgwODUyNywtMT
+AwODkyOTU5Miw0MzQzMzIzNCwxNDczNDI0MzFdfQ==
 -->
