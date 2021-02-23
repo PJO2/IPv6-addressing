@@ -20,7 +20,7 @@ Si ces 2 mécanismes permettent effectivement d'économiser les adresses IPv4, i
 - accessibilité de serveurs dont l'adresse est translatée
 
 De plus, l'arrivée des objets connectés dans les entreprises (caméras vidéo, étiquettes connectées dans la distribution, capteurs connectés dans les entrepôts, les locaux techniques, les véhicules, ...) augmente la demande nombre des subnets à attribuer et bouscule le plan d'adressage des organisations. 
-Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ensembles d'objets en nombre difficilement prévisible qui doivent appartenir à des nouveaux subnets pour leur adjoindre le bon niveau de sécurité (côté sécurité, c'est cool  de distinguer facilement un humain d'un interrupteur).
+Il ne s'agit plus d'affecter une adresse IP par employé, mais de gérer des ensembles d'objets en nombre difficilement prévisible qui doivent appartenir à des nouveaux subnets pour leur adjoindre le bon niveau de sécurité (parce que côté sécurité, c'est plutôt cool de savoir distinguer un humain d'un interrupteur).
 
 Nous allons voir qu'IPv6, construit à partir  du retour d'expérience IPv4, apporte des réponses concrètes à tous ces points.
 
@@ -79,6 +79,7 @@ Je n'ai pas la réponse à la première question,  mais je vous propose dans les
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA0ODQ0NDksMzI3NjY3OTI5LC0xMz
-k5MzU4MjAyLC01ODk3NDk4NzgsMTkxNDkyNTI2MV19
+eyJoaXN0b3J5IjpbMTMzNjExOTg1NCwtMTEzMDQ4NDQ0OSwzMj
+c2Njc5MjksLTEzOTkzNTgyMDIsLTU4OTc0OTg3OCwxOTE0OTI1
+MjYxXX0=
 -->
